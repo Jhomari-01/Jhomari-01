@@ -1,14 +1,12 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:4338ca&height=200&section=header&text=Hi!%20I'm%20dev%20Joms%20&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:4338ca&height=200&section=header&text=Hi!%20I'm%20dev%20Joms%20&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Turning%20complex%20problems%20into%20elegant%20solutions&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;Open+Source+Contributor;Always+learning+new+things" alt="Typing SVG" />
 </a>
-
-<br/>
 
 <br/>
 
@@ -22,7 +20,7 @@
 ---
 
 <!-- ABOUT ME -->
-## About Me
+## <div align="center">About Me</div>
 
 ```yaml
 Name       : Jho Mari Malaca
@@ -41,11 +39,11 @@ Status     : Open to Work ✅
 ---
 
 <!-- TECH STACK -->
-## Tech Stack & Tools
+## <div align="center">Tech Stack & Tools</div>
 
 ### Frontend
 
-<div align="left">
+<div align="center">
   <table border="0" cellspacing="0" cellpadding="10">
     <tr>
       <td align="center" width="80">
@@ -82,7 +80,7 @@ Status     : Open to Work ✅
 
 ### Backend
 
-<div align="left">
+<div align="Center">
   <table border="0" cellspacing="0" cellpadding="10">
     <tr>
       <td align="center" width="80">
@@ -119,7 +117,7 @@ Status     : Open to Work ✅
 
 ### Design & UI/UX
 
-<div align="left">
+<div align="center">
   <table border="0" cellspacing="0" cellpadding="10">
     <tr>
       <td align="center" width="80">
@@ -136,7 +134,7 @@ Status     : Open to Work ✅
 
 ### Dev Tools
 
-<div align="left">
+<div align="center">
   <table border="0" cellspacing="0" cellpadding="10">
     <tr>
       <td align="center" width="80">
@@ -162,23 +160,23 @@ Status     : Open to Work ✅
 ---
 
 <!-- CONNECT WITH ME -->
-## Connect With Me
+## <div align="center">Connect With Me</div>
 
-<div align="left">
+<div align="Center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Viber](https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=%2B639XXXXXXXXX)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jho.mari.m.m)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jho-mari-malaca/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tsuitachi.uno/)
+[![Viber](https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=%2B639657109042)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhomarimalaca1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhomari-01)
 
 </div>
 
 ---
 
 <!-- RANDOM DEV QUOTE -->
-## Dev Quote of the Day
+## <div align="center">Dev Quote of the Day</div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -189,6 +187,6 @@ Status     : Open to Work ✅
 <div align="center">
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4338ca,50:6366f1,100:06b6d4&height=120&section=footer&text=Star%20my%20repos%20if%20you%20find%them%20helpful!&fontSize=18&fontColor=ffffff&fontAlign=50&fontAlignY=85&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4338ca,50:6366f1,100:06b6d4&height=120&section=footer&text=Star%20my%20repos%20if%20you%20find%them%20helpful!&fontSize=12&fontColor=ffffff&fontAlign=50&fontAlignY=85&animation=fadeIn" />
 
 </div>
