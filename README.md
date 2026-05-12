@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:4338ca&height=200&section=header&text=Hi!%20I'm%20dev%20Joms%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:4338ca&height=200&section=header&text=Hi!%20I'm%20dev%20Joms%20&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -10,10 +10,10 @@
 
 <br/>
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<!-- PROJECTS & CERTIFICATES -->
+<img src="https://img.shields.io/badge/Projects-4-blueviolet?style=for-the-badge" alt="Projects" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers" />
+<img src="https://img.shields.io/badge/Certificates-8-blueviolet?style=for-the-badge" alt="Certificates" />
 
 </div>
 
@@ -23,18 +23,18 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-Name       : Your Full Name
+Name       : Jho Mari Malaca
 Location   : Philippines 🇵🇭
 Role       : Full Stack Developer
-Experience : X years
+Experience : Building Real-World Projects
 Status     : Open to Work ✅
 ```
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[What you're learning]**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, UI/UX Design**
-- ⚡ Fun fact: **[Something fun about you]**
+- 🔭 I'm currently building personal and freelance-ready web projects  
+- 🌱 I'm continuously learning and exploring my interest in automation  
+- 👯 I'm looking to collaborate on creative and functional web projects  
+- 💬 Ask me about Web Development, Laravel, UI/UX Design, and Portfolio Websites  
+- ⚡ Fun fact: I love crafting clean, modern, and user-friendly interfaces
 
 ---
 
@@ -142,11 +142,11 @@ Status     : Open to Work ✅
         <sub><b>Git</b></sub>
       </td>
       <td align="center" width="80">
-        <img src="https://skillicons.dev/icons?i=jira" width="48" height="48" alt="Jira" /><br/>
+        <img src="https://cdn.simpleicons.org/jira" width="48" height="48" alt="Jira" /><br/>
         <sub><b>Jira</b></sub>
       </td>
       <td align="center" width="80">
-        <img src="https://skillicons.dev/icons?i=linear" width="48" height="48" alt="Linear" /><br/>
+        <img src="https://cdn.simpleicons.org/linear" width="48" height="48" alt="Linear" /><br/>
         <sub><b>Linear</b></sub>
       </td>
       <td align="center" width="80">
@@ -155,38 +155,6 @@ Status     : Open to Work ✅
       </td>
     </tr>
   </table>
-</div>
-
----
-
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<!-- GITHUB ACTIVITY GRAPH -->
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
@@ -212,15 +180,6 @@ Status     : Open to Work ✅
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-<!-- SNAKE ANIMATION -->
-## 🐍 My Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
