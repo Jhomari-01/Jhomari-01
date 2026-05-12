@@ -5,8 +5,10 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%8C%9F;Always+learning+new+things+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;Open+Source+Contributor;Always+learning+new+things" alt="Typing SVG" />
 </a>
+
+<br/>
 
 <br/>
 
@@ -20,7 +22,7 @@
 ---
 
 <!-- ABOUT ME -->
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
 Name       : Jho Mari Malaca
@@ -30,18 +32,18 @@ Experience : Building Real-World Projects
 Status     : Open to Work ✅
 ```
 
-- 🔭 I'm currently building personal and freelance-ready web projects  
-- 🌱 I'm continuously learning and exploring my interest in automation  
-- 👯 I'm looking to collaborate on creative and functional web projects  
-- 💬 Ask me about Web Development, Laravel, UI/UX Design, and Portfolio Websites  
-- ⚡ Fun fact: I love crafting clean, modern, and user-friendly interfaces
+- I'm currently building personal and freelance-ready web projects  
+- I'm continuously learning and exploring my interest in automation  
+- I'm looking to collaborate on creative and functional web projects  
+- Ask me about Web Development, Laravel, UI/UX Design, and Portfolio Websites  
+- Fun fact: I love crafting clean, modern, and user-friendly interfaces
 
 ---
 
 <!-- TECH STACK -->
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-### 🎨 Frontend
+### Frontend
 
 <div align="left">
   <table border="0" cellspacing="0" cellpadding="10">
@@ -78,7 +80,7 @@ Status     : Open to Work ✅
   </table>
 </div>
 
-### ⚙️ Backend
+### Backend
 
 <div align="left">
   <table border="0" cellspacing="0" cellpadding="10">
@@ -115,7 +117,7 @@ Status     : Open to Work ✅
   </table>
 </div>
 
-### 🎨 Design & UI/UX
+### Design & UI/UX
 
 <div align="left">
   <table border="0" cellspacing="0" cellpadding="10">
@@ -132,7 +134,7 @@ Status     : Open to Work ✅
   </table>
 </div>
 
-### 🗄️ Dev Tools
+### Dev Tools
 
 <div align="left">
   <table border="0" cellspacing="0" cellpadding="10">
@@ -160,7 +162,7 @@ Status     : Open to Work ✅
 ---
 
 <!-- CONNECT WITH ME -->
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="left">
 
@@ -176,7 +178,7 @@ Status     : Open to Work ✅
 ---
 
 <!-- RANDOM DEV QUOTE -->
-## 💭 Dev Quote of the Day
+## Dev Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -187,8 +189,6 @@ Status     : Open to Work ✅
 <div align="center">
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4338ca,50:6366f1,100:06b6d4&height=120&section=footer" />
-
-**⭐ Star my repos if you find them helpful!**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4338ca,50:6366f1,100:06b6d4&height=120&section=footer&text=Star%20my%20repos%20if%20you%20find%them%20helpful!&fontSize=18&fontColor=ffffff&fontAlign=50&fontAlignY=85&animation=fadeIn" />
 
 </div>
