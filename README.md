@@ -169,7 +169,6 @@ Status     : Open to Work ✅
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tsuitachi.uno/)
 [![Viber](https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=%2B639657109042)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhomarimalaca1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhomari-01)
 
 </div>
 
